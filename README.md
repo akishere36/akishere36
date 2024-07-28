@@ -23,7 +23,7 @@ Here’s a brief overview of my technical skills:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/amitkumarpandeyy)
+- [LinkedIn](https://www.linkedin.com/in/amitkumarpandeyy)
 - [Twitter](https://x.com/Amit_Kumarr1)
 - [Personal Website](none as of now)
 
